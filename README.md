@@ -14,6 +14,8 @@ I am a final year Electronics and Communication student at IIIT Dharwad, profici
 
 <br>
 
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Snehagupta1907&" alt="sneha" /></p>-->
+
 ## Language and Tools
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
