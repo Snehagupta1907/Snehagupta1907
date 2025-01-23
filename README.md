@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Sneha+Gupta;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Sneha+Gupta;I'm+a+Software+Developer)](https://git.io/typing-svg)
 
 <br>
 I am a final year Electronics and Communication student at IIIT Dharwad, proficient in deep learning, exploring computer vision, and experienced in full-stack web development. Actively seeking roles in my domain to apply my skills and drive innovation.
