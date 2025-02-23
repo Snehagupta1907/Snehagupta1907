@@ -56,13 +56,13 @@ I am a final year Electronics and Communication student at IIIT Dharwad, profici
   <a href="mailto:snehagupta98930@gmail.com">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.linkedin.com/in/sneha-gupta-239aa1201/" target="_blank">
+  <a href="https://www.linkedin.com/in/sneha-gupta-239aa1201" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://drive.google.com/file/d/1yHPtU535FEiR30HRqHP9L3x17aOKBa0o/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/147l0O5a0rAR3VAoOsyv7KCvCaujxBPeC/view?usp=sharing" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=google-drive&logoColor=white" target="_blank" />
   </a>
-  <a href="https://your-portfolio-url.com" target="_blank">
+  <a href="https://your-portfolio-url.com](https://sneha-s-portfolio.vercel.app" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=firefox" target="_blank" />
   </a>
 </div>
