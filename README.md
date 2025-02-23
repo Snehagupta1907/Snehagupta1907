@@ -62,7 +62,7 @@ I am a final year Electronics and Communication student at IIIT Dharwad, profici
   <a href="https://drive.google.com/file/d/147l0O5a0rAR3VAoOsyv7KCvCaujxBPeC/view?usp=sharing" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=google-drive&logoColor=white" target="_blank" />
   </a>
-  <a href="https://your-portfolio-url.com](https://sneha-s-portfolio.vercel.app" target="_blank">
+  <a href="https://sneha-s-portfolio.vercel.app" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=firefox" target="_blank" />
   </a>
 </div>
