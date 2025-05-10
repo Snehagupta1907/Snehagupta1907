@@ -34,11 +34,12 @@ I am an Electronics and Communication Engineer, proficient in deep learning, exp
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flask"/>](https://flask.palletsprojects.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tensorflow"/>](https://www.tensorflow.org/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=opencv"/>](https://opencv.org/)
+[<img height="48px" width="48px" alt="Solidity Icon" src="https://skillicons.dev/icons?i=solidity"/>](https://docs.soliditylang.org/en/latest/)
 
 
 
 #### Studying in this moment:
-[<img height="48px" width="48px" alt="Solidity Icon" src="https://skillicons.dev/icons?i=solidity"/>](https://docs.soliditylang.org/en/latest/)
+[<img height="48px" width="48px" alt="rust Icon" src="https://skillicons.dev/icons?i=rust"/>](https://doc.rust-lang.org/book/)
   
 
 #### Tools:
